@@ -1,4 +1,4 @@
-configuration SQLServerNode
+configuration SQLServerStandalone
 {
     param (
         [Parameter(Mandatory=$true)]
